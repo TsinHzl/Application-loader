@@ -1,2 +1,5 @@
 # Application-loader
 Application loader上传ipa工具
+
+下载后可直接放在application目录中，直接打开即可使用，或者放在Xcode/Contents/Applicattion目录中也可，这样的话就可以通过Xcode之前常用的方式打开进行ipa的上传了
+
